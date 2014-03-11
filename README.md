@@ -1,4 +1,6 @@
-friday_job_prep
+Friday Job Prep
 ===============
 
-Friday Job Prop problems from Hacker School
+Interview problems giving on Fridays at Hacker School.
+
+
